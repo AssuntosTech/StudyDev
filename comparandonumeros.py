@@ -1,5 +1,6 @@
 #! usr/bin/python3
 #-*- encoding:utf-8 -*-
+# Pequeno bug, quando se coloca o mesmo valor nas 3 variaveis ele printa o resultado 3 vezes.
 
 a = int(input("Primeiro número: "))
 b = int(input("Segundo número: "))
